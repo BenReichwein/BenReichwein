@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Workout Boost ⚡](https://github.com/BenReichwein/WorkoutBoost)
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **Redux**
 
 - 👯 I’m looking to collaborate on **Any fun JavaScript (maybe React) projects**
 
