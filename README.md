@@ -9,7 +9,7 @@ const BenReichwein = {
   email: "reichweinben@gmail.com",
   loveToCode: true,
   code: [Javascript, Typescript, Golang, CSS, HTML, Ruby, C#, Java],
-  tools: [React, Redux, Node, Bootstrap, Mongodb, Jest, Docker],
+  tools: [React, Redux, Node, Bootstrap, Tailwindcss, Mongodb, Postgres, Docker],
 }
 
 ```
